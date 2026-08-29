@@ -10,7 +10,7 @@
 
 ## 🎯 Why This Repository Exists
 
-Companion repo to my [Python for SOC & Security Automation](../Python-for-SOC-Learning-Path.md) learning path. Rather than just list tools I'm learning, this repo tracks the actual scripts and tools I build with them — real projects, not tutorial exercises copied line-for-line. Same documentation philosophy as my [SOC Incident Documentation](https://github.com/Tmitchy/-SOC-Incident-Documentation) repo: a structured entry per project, including what didn't work, not just the polished result.
+Companion repo to my [Python for SOC & Security Automation](../Python-for-SOC-Learning-Path.md) learning path. Rather than just listing tools I'm learning, this repo tracks the actual scripts and tools I build with them- real projects, not tutorial exercises copied line-for-line. Same documentation philosophy as my [SOC Incident Documentation](https://github.com/Tmitchy/-SOC-Incident-Documentation) repo: a structured entry per project, including what didn't work, not just the polished result.
 
 ---
 
