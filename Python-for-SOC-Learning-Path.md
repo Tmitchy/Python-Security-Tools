@@ -23,7 +23,7 @@ Everything below is ranked by how directly it applies to SOC/security automation
 |---|---|---|
 | **Python 3** | Core | The language itself: everything else builds on this |
 | **Bash Command Line** | Core | Nearly every SOC/Linux task involves shell scripting alongside Python: log filtering, cron jobs, chaining tools |
-| **Requests** | Core | The backbone of interacting with security APIs — VirusTotal, AbuseIPDB, Shodan, internal SIEM APIs — the single most directly applicable library for SOC automation |
+| **Requests** | Core | The backbone of interacting with security APIs: VirusTotal, AbuseIPDB, Shodan, internal SIEM APIs; the single most directly applicable library for SOC automation |
 | **Pandas** | Core | Log analysis at scale: filtering, aggregating, and pivoting CSV/JSON exports from Elasticsearch is exactly what Pandas is built for |
 | **SQL / SQLite / PostgreSQL** | Core | Querying structured security data directly, and understanding the query language underneath tools like Kibana's Discover/ES|QL |
 | **Python Scripting & Automation** | Core | The actual skill this whole course exists to build: task automation, file parsing, repetitive triage steps |
