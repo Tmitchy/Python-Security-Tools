@@ -48,7 +48,7 @@ This doc stays focused on strategy: what to learn and why. The actual scripts an
 
 1. **Python 3 fundamentals**: Syntax, data structures, functions, file I/O
 2. **Bash + Git/GitHub in parallel**: These aren't "after Python"; they're alongside it from day one
-3. **Requests**: start hitting real APIs early (VirusTotal's free tier is a good first target) to keep things grounded in actual SOC use cases, not abstract exercises
+3. **Requests**: Start hitting real APIs early (VirusTotal's free tier is a good first target) to keep things grounded in actual SOC use cases, not abstract exercises
 4. **Pandas**: Once comfortable with core Python, move into log/data manipulation
 5. **SQL**: In parallel with Pandas, since both are about querying/shaping data
 6. **Jupyter**: Once I have real scripts worth documenting and iterating on visually
