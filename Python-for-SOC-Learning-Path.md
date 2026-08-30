@@ -1,5 +1,5 @@
 <h1 align="center">🐍 Python for SOC & Security Automation</h1>
-<h3 align="center">A curated learning path — not everything in the course, just what actually moves the needle for SOC work</h3>
+<h3 align="center">A curated learning path, just what actually moves the needle for SOC work</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Scripting%20%26%20Automation-1E293B?style=for-the-badge&logo=python&logoColor=white"/>
@@ -12,6 +12,7 @@
 ## 🎯 Why this doc exists
 
 I am currently engaged in a process of re-education in Python through a comprehensive general-purpose course that addresses various aspects of scripting and automation pertinent to the field of cybersecurity. This document specifically distills the course content to highlight the most essential components relevant to work within a Security Operations Center (SOC).
+
 ---
 
 ## 🎯 Priority Skills for SOC Work
