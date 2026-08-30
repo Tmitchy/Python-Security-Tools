@@ -18,7 +18,6 @@ Companion repo to my [Python for SOC & Security Automation](../Python-for-SOC-Le
 
 - **This README is the master index.**
 - Each project lives in its own file under [`/projects`](./projects), named `[ID]-[short-title].md`.
-- The reusable write-up structure lives in [`/templates/project-template.md`](./templates/project-template.md).
 
 ---
 
