@@ -1,3 +1,0 @@
-CT5046 Cryptography & Security (FHM FHM_SEM1-2 - 2025/26)
-
-This is already a clean ECIES-style implementation (Ephemeral ECDH + HKDF + AES-GCM).
