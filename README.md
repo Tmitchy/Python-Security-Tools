@@ -27,7 +27,7 @@ Companion repo to my [Python for SOC & Security Automation](../Python-for-SOC-Le
 
 | Metric | Count |
 |---|---|
-| Total projects | 1 |
+| Total projects | 2 |
 | API integration | 0 |
 | Log analysis | 0 |
 | Automation | 0 |
@@ -40,6 +40,7 @@ Companion repo to my [Python for SOC & Security Automation](../Python-for-SOC-Le
 | ID | Project | Category | Status | Link |
 |---|---|---|---|---|
 | 001 | *Light Cryptographic System Buildt with Python* | Cryptography | Completed | [View](./python-security-projects/Light_Cryptographic_System_Buildt_with_Python) |
+| 002 | *Password Generator* | Password Security | completed | [View](./python-security-projects/Password_Generator_Project.py)
 
 ---
 
